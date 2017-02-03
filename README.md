@@ -3,6 +3,12 @@
 
 **Website features a parallax design.**
 
+### Future Updates
+
+* Add the rest of the pages
+* Add contact form
+* Link Social Media to footer of each page
+
 ### Index File
 
 ##### Part 1
