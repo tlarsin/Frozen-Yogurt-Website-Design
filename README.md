@@ -9,7 +9,7 @@
 * Add contact form
 * Link Social Media to footer of each page
 
-### Index File
+### Home Page
 
 ##### Part 1
 ![Image of Index File](res/markdown/images/Index.png)
