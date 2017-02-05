@@ -1,5 +1,5 @@
 # Frozen-Yogurt-Website-Design
-*I created a mockup of a frozen yogurt website design for Jacq Frost, inspired by a frozen yogurt website for a Milwaukee based business. Not affiliated with Jacq Frost.*
+*I created a mockup of a frozen yogurt website design for Jacq Frost, inspired by a [Link to Yo Factory](http://www.yofactoryyogurt.com "Yo Factory") frozen yogurt place in Milwaukee. Not affiliated with Jacq Frost.*
 
 **Website features a parallax design.**
 
