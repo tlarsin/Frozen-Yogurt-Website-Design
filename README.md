@@ -11,17 +11,4 @@
 
 ### Home Page
 
-##### Part 1
-![Image of Index File](res/markdown/images/Index.png)
-
-
-##### Part 2
-![Image 2 of Index File](res/markdown/images/Index2.png)
-
-
-##### Part 3
-![Image 3 of Index File](res/markdown/images/Index3.png)
-
-
-##### Part 4
-![Image 4 of Index File](res/markdown/images/Index4.png)
+![Image of Index File](res/markdown/images/index.gif)
